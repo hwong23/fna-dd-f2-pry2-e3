@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-02" />
   <meta name="citation_publication_date" content="2023-08-02" />
   <meta property="article:published_time" content="2023-08-02" />
-  <meta name="dc.modified" content="2023-08-02T17:28:24+00:00" />
-  <meta property="article:modified_time" content="2023-08-02T17:28:24+00:00" />
+  <meta name="dc.modified" content="2023-08-02T21:49:59+00:00" />
+  <meta property="article:modified_time" content="2023-08-02T21:49:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/41d53d327e8162c7cfb0ae4081a16a5ed37066c9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/41d53d327e8162c7cfb0ae4081a16a5ed37066c9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/41d53d327e8162c7cfb0ae4081a16a5ed37066c9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/3ab886e0e3ddb6691343ec85abb82a8dd67f531d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/3ab886e0e3ddb6691343ec85abb82a8dd67f531d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/3ab886e0e3ddb6691343ec85abb82a8dd67f531d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/41d53d327e8162c7cfb0ae4081a16a5ed37066c9/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/3ab886e0e3ddb6691343ec85abb82a8dd67f531d/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@41d53d3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@3ab886e](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.41d53d3 de 02 Aug 2023
+|    **Versión** del producto 1.3ab886e de 02 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.41d53d3 del 02 Aug 2023 |
+| Versión        | 1.3ab886e del 02 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 > 
 >    02 Aug 2023
 >
->    **Versión** 1.41d53d3
+>    **Versión** 1.3ab886e
 
 <br>
 
@@ -225,7 +225,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Versión        | 1.41d53d3 del 02 Aug 2023            |
+| Versión        | 1.3ab886e del 02 Aug 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -353,6 +353,60 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 ![E-Service](images/VistaCapacidadesFNA.1b.png){#fig: width=}
 
 _Fuente: Diagnóstico SOA. E-Service (2022)._
+
+<br>
+
+
+---
+pr14nombre: "Administración de las transiciones hacia la arquitectura versión 2.0"
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+>    E-Service. Fase II
+>
+>    PRY02. Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales
+>
+>    Contrato 1812020
+>
+>    FNA, Stefanini
+>
+>    02 Aug 2023
+>
+>    **Versión** 1.3ab886e
+
+<br>
+
+# Producto 14: PR14. Administración de las transiciones hacia la arquitectura versión 2.0
+Recogemos en este producto el concepto del _bloque de construcción abstracto_ (ABB, por su siglas en inglés) promovido por TOGAF, y que a su vez podemos hallar su raíz en el concepto del plantilla de tipos o tipos de datos genéricos proveniente del paradigma orientado a objetos. En este producto trataremos de los bloques de construcción genéricos del FNA necesarios para normalizar la elaboración de diseños de solución y transición (dicha elaboración actual los cuales no son del alcance de este producto, ni del proyecto actual).
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
+
+<br>
+
+## Justificación
+Los bloques de construcción abstractos, o genéricos en este contexto, son diseños previamente validados que pueden ser utilizados directamente en los procesos de elaboración de arquitecturas de solución y de transición en las que la arquitectura de referencia esté involucrada. Estos prediseños son importantes por razones de la aceleración que le aportan a la elaboración de estas transiciones, pero también por la normalización y reutilización que suponen en esto mismo, y porque están directamente asociados con una forma de solucionar el problema del tiempo de mercado diagnosticado en Fase I de esta consultoría.
+
+## Contenidos
+1. Definición de los Bloques de Construcción Abstractos del FNA (BCAF)
+1. Métodos para la gestión y evolución de los Bloques de Construcción Abstractos del FNA (BCAF)
+1. Listado de Bloques de Construcción Abstractos del FNA (BCAF)
+1. Utilización de los Bloques de Construcción Abstractos en el FNA
+
+<br>
+
+## Criterios de Aceptación
+* Entendimiento del concepto del bloque de construcción genérico
+* Entendimiento del uso de los prediseños de arquitectura 
+* Entrega del listado de Bloques de Construcción Abstractos del FNA (BCAF)Lista de 
+
+<br>
+
+## Modelo de Implementación del PRY02
+![Plan de Implementación del Proyecto Arquitectura de Referencia SOA 2.0 del FNA (PRY02), 2023. Junio 2023 a julio 2023](images/pry2.png){#fig: width=}
+
+_Fuente: Elaboración propia._
 
 <br>
 
