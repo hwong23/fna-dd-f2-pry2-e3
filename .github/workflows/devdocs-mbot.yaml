@@ -76,6 +76,8 @@ jobs:
           echo "PR11_NOMBRE=Detalle de los recursos, herramientas, roles, responsabilidades y participantes" >> $GITHUB_ENV
           echo "PR12_NOMBRE=Diseño detallado y vistas funcional, despliegue, información, integración y tecnología​" >> $GITHUB_ENV
           echo "PR13_NOMBRE=Modelado en lenguaje y herramienta de diseño del FNA​" >> $GITHUB_ENV
+          echo "PR14_NOMBRE=Administración de las transiciones hacia la arquitectura versión 2.0" >> $GITHUB_ENV
+          echo "PR15_NOMBRE=PR15. Inventario de artefactos genéricos y concretos de aceleración de implementación" >> $GITHUB_ENV
       - name: Cache
         uses: actions/cache@v3
         with:
