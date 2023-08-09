@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-09" />
   <meta name="citation_publication_date" content="2023-08-09" />
   <meta property="article:published_time" content="2023-08-09" />
-  <meta name="dc.modified" content="2023-08-09T22:01:07+00:00" />
-  <meta property="article:modified_time" content="2023-08-09T22:01:07+00:00" />
+  <meta name="dc.modified" content="2023-08-09T22:06:35+00:00" />
+  <meta property="article:modified_time" content="2023-08-09T22:06:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c840906a920b867b0bf49006f2cd9c271807d669/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c840906a920b867b0bf49006f2cd9c271807d669/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c840906a920b867b0bf49006f2cd9c271807d669/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/06ebe1ad7331f3358a02aea461ab4c0485e40aaf/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/06ebe1ad7331f3358a02aea461ab4c0485e40aaf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/06ebe1ad7331f3358a02aea461ab4c0485e40aaf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c840906a920b867b0bf49006f2cd9c271807d669/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/06ebe1ad7331f3358a02aea461ab4c0485e40aaf/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@c840906](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@06ebe1a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 9, 2023.
 </em></small>
 
-|    **Versión** del producto 1.c840906 de 09 Aug 2023
+|    **Versión** del producto 1.06ebe1a de 09 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.c840906 del 09 Aug 2023 |
+| Versión        | 1.06ebe1a del 09 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 > 
 >    09 Aug 2023
 >
->    **Versión** 1.c840906
+>    **Versión** 1.06ebe1a
 
 <br>
 
@@ -225,7 +225,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Versión        | 1.c840906 del 09 Aug 2023            |
+| Versión        | 1.06ebe1a del 09 Aug 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -374,7 +374,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    09 Aug 2023
 >
->    **Versión** 1.c840906
+>    **Versión** 1.06ebe1a
 
 <br>
 
@@ -428,7 +428,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    09 Aug 2023
 >
->    **Versión** 1.c840906
+>    **Versión** 1.06ebe1a
 
 <br>
 
@@ -459,11 +459,18 @@ Uno de los objetivos nominales, y objeto del proyecto actual, es la creación de
 <br>
 
 ## Criterios de Aceptación
-* Entendimiento del concepto del bloque de construcción genérico
-* Entendimiento del uso de los prediseños de arquitectura 
-* Entrega del listado de Bloques de Construcción Abstractos del FNA (BCAF)Lista de 
+1. Detalle de ítems de la línea base de arquitectura de referencia 2.0 del FNA
+1. Repositorio de arquitectura del FNA, versión 0.5, actualizado con arquitectura de referencia
+1. Consideraciones para la adopción y puesta en marcha de los cambios en las arquitecturas del FNA
+1. Anexo. Herramienta de navegación del repositorio de arquitectura del FNA versión 0.3
 
 <br>
+
+## Repositorio de Arquitectura del FNA, versión 0.5
+![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
+
+_Fuente: Diagnóstico SOA. E-Service (2022)._
+
 
 ## Modelo de Implementación del PRY02
 ![Plan de Implementación del Proyecto Arquitectura de Referencia SOA 2.0 del FNA (PRY02), 2023. Junio 2023 a julio 2023](images/pry2e4.png){#fig: width=}
