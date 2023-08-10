@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-10" />
   <meta name="citation_publication_date" content="2023-08-10" />
   <meta property="article:published_time" content="2023-08-10" />
-  <meta name="dc.modified" content="2023-08-10T22:29:31+00:00" />
-  <meta property="article:modified_time" content="2023-08-10T22:29:31+00:00" />
+  <meta name="dc.modified" content="2023-08-10T22:38:29+00:00" />
+  <meta property="article:modified_time" content="2023-08-10T22:38:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/bb3b1dd3451611b4d40f80d6642b0717906afd9a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/bb3b1dd3451611b4d40f80d6642b0717906afd9a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/bb3b1dd3451611b4d40f80d6642b0717906afd9a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/bb3b1dd3451611b4d40f80d6642b0717906afd9a/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@92a5aa4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@bb3b1dd](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 10, 2023.
 </em></small>
 
-|    **Versión** del producto 1.92a5aa4 de 10 Aug 2023
+|    **Versión** del producto 1.bb3b1dd de 10 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.92a5aa4 del 10 Aug 2023 |
+| Versión        | 1.bb3b1dd del 10 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    10 Aug 2023
 >
->    **Versión** 1.92a5aa4
+>    **Versión** 1.bb3b1dd
 
 <br>
 
@@ -234,7 +234,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.92a5aa4** del 10 Aug 2023                       |
+| Versión        | **1.bb3b1dd** del 10 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -255,7 +255,7 @@ Esto último es lo que determina la problemática de la demora en el tiempo de m
 
 # Propuesta de Flexibilidad y Mejora del Tiempo de Mercado del FNA
 ## Bloques Genéricos de Construcción de la Arquitectura de Referencia
-La propuesta de solución para mejorar los tiempos de mercado del FNA son aquellos referidos en los pasos no. 2 y 5 del flujo de trabajo de la Oficina de Arquitectura y son en realidad paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Estos bloques pueden implementar a cualquier clasificador (objeto material) de los modelos del repositorio de arquitectura empresarial.
+Desde la arquitectura de referencia SOA 2.0 del FNA hacemos la propuesta de  mejoramiento de los tiempos de mercado del FNA son aquellos referidos en los pasos no. 2 y 5 del flujo de trabajo de la Oficina de Arquitectura y son en realidad paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Estos bloques pueden implementar a cualquier clasificador (objeto material) de los modelos del repositorio de arquitectura empresarial.
 
 Ejemplo de estos bloques predefinidos en el repositorio de arquitectura pueden ser un proceso, un actor, un servicio, una aplicación, o una entidad de datos que haga parte del glosario de contenidos de la empresa Fondo Nacional. 
 
@@ -291,29 +291,7 @@ Los bloques de construcción genéricos deben tener asociado una contraparte usa
 # Definición de los Bloques de Construcción Abstractos del FNA (BCAF)
 
 
-## Bloques de Construcción Requeridos por Arquitectura (LAOF)
-Los bloques de solución a los que nos referimos en los pasos no. 2 y 5 del flujo anterior, arquitecto de solución, son los paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Pueden ser cualquier clasificador (objeto tipo) correspondiente al modelo de contenidos de la empresa, como por ejemplo, actores, servicios, aplicaciones, o entidades de datos. Representan un único concepto que tiene límites claros y es reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques. Es importante que un bloque de construcción tenga una implementación y un uso. Debe además evolucionar mediante la tecnología. 
-
-Los bloques de solución pueden estar compuesto por otros (ensamblado), y por tanto, puede ser descompuesto (desensamblado) en los bloques pequeños que los constituyen. Es obligatorio que sea reutilizable, reemplazable, y especificado a conformidad.
-
-Los sistemas y herramientas de software de la arquitectura del FNA deben estar creados a partir de colecciones de bloques de solución. De ahí que estos bloques deban tener una interfaz de interacción clara y estable para con otros bloques. 
-
-Lo más importante de estos bloques es que son los que contienen los niveles de detalle (100 al 500). Por ejemplo, a nivel 100, el arquitecto del FNA podría dar comienzo al modelado de un bloque de solución mediante un nombre, una descripción o un esquema. Luego, el arquitecto de solución, puede descomponer este mismo bloque en múltiples construcciones acompañada de una especificación más detallada (nivel 200 al 500).
-
-En la siguiente imagen ilustramos esta variante del flujo de trabajo de la oficina de arquitectura del FNA.
-
-![alt 2. Actividades y relaciones de los estados de un flujo de trabajo de la oficina de arquitectura con arreglo al proceso ADM de TOGAF. Flujo para la oficina de arquitectura en conjunto con proveedores del FNA.](images/flujoADM-2.png){#fig:flujoADM-2.png width=}
-
-_Fuente: Elaboración propia._
-
-<br>
-
-El flujo 2, que atiende la colaboración entre oficinas de arquitecturas, bien puede ser iniciado por un flujo interno de la oficina del FNA, (FLUJ01, Flujo de Trabajo Oficina de Arquitectura Interno). Es frecuente que una implementación iniciada por el este flujo (2 le corresponda una revisión interna, y de esta, se inicien varios flujos de implementación y colaboración de cambios a los servicios y aplicaciones del FNA.
-
-<br>
-
-
-## Anexo 2. Población de servicios del portafolio FNA
+# Anexo 1. Población de servicios del portafolio FNA
 La tabla siguiente muestra la población de servicios del portafolio FNA.
 
 |                      |              |
@@ -333,7 +311,34 @@ Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómpu
 <br>
 
 
-## Anexo 3. Flujo de Trabajo de la Oficina de Arquitectura
+# Anexo 2. Flujo de Trabajo de la Oficina de Arquitectura
+El flujo de trabajo de la oficina de arquitectura es un mecanismo de prevención de las carencias de gobierno 0.2 del FNA (ver [Análisis de susceptibilidad de gobierno (PR01)](../../fna-dd-f2-pry1/content/01a3.flujos.md), y [Anexo 1. Susceptibilidades de Gobierno (PR01)](https://stefaninilatam.sharepoint.com/SitePages/Home.aspx)), al refinar el proceso de colaboración y autoría de modelos, lo mismo, que al tomar como base del trabajo al repositorio de arquitectura del FNA. El flujo de trabajo de arquitectura resalta los roles y responsabilidades de los participantes: arquitectos FNA, arquitectos solución (proveedores), administradores del repositorio de arquitectura, revisores y aprobadores, y audiencia objetivo de los resultados del trabajo.
+
+Para cubrir los casos más significativos del análisis de susceptibilidad de gobierno, hemos creado los flujos de trabajo interno, y su alternativa, el de proveedores, definidos para priorizar la atención a tales problemas. Los problemas de gobierno referidos son
+
+## Flujo de Trabajo Oficina de Arquitectura Interno (FLUJ01)
+Desarrollamos dos flujos fundamentales de la oficina de arquitectura. El primero, el FLUJ01. Diseño y Análisis de Modelos de Arquitectura del FNA, se ejecuta cada vez que exista una petición de requerimiento de cambio de arquitectura. Los demás pasos de este flujo se resumen a continuación.
+
+1. Recibe el requerimiento de arquitectura
+    * Inicia el proceso ADM - Fase de preliminar: alistamiento y aprobación​
+    * Arranca el modelado​ inicial o incremental, nivel 100 [^1]
+1. El arquitecto de solución continúa el proceso ADM - solicita implementación / gobierno
+
+[^1]: Niveles de detalle de la ingeniería: https://editeca.com/lod-nivel-de-desarrollo/
+
+<br>
+
+La siguiente imagen ilustra los pasos descritos.
+
+![alt 1. Actividades del flujo de trabajo de la oficina de arquitectura con arreglo al proceso ADM de TOGAF. Este flujo atiende requerimientos internos de la oficina de arquitectura del FNA.](images/flujoADM-1.png){#fig:flujoADM-1.png width=}
+
+_Fuente: Elaboración propia._
+
+<br>
+
+El flujo interno tiene un propósito acotado a los asuntos concernientes a los involucrados de la oficina de arquitectura, adscrita a la vicepresidencia de tecnología del FNA. No debe, por tanto, dar alcance a los trabajos que se estén realizando con otras oficinas del Fondo, como por ejemplo Planeación, o con arquitectos externos, proveedores o fábricas de software. De esto último es precisamente de lo que se encarga el flujo no. 2, Flujo de Trabajo Oficina de Arquitectura Proveedores, descrito más adelante. El flujo interno de la oficina puede, sin embargo, y con mucha frecuencia lo hará, dar inicio a un flujo 2, que de colaboración entre oficinas y proveedores y fábricas se trata.
+
+<br>
 
 
 ---
@@ -353,7 +358,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    10 Aug 2023
 >
->    **Versión** 1.92a5aa4
+>    **Versión** 1.bb3b1dd
 
 <br>
 
