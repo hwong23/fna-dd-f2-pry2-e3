@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-10" />
   <meta name="citation_publication_date" content="2023-08-10" />
   <meta property="article:published_time" content="2023-08-10" />
-  <meta name="dc.modified" content="2023-08-10T21:58:39+00:00" />
-  <meta property="article:modified_time" content="2023-08-10T21:58:39+00:00" />
+  <meta name="dc.modified" content="2023-08-10T22:29:31+00:00" />
+  <meta property="article:modified_time" content="2023-08-10T22:29:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/7b31ac87e48263f74761dc8778a8138aebf85986/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/7b31ac87e48263f74761dc8778a8138aebf85986/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/7b31ac87e48263f74761dc8778a8138aebf85986/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/7b31ac87e48263f74761dc8778a8138aebf85986/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/92a5aa421bc523e21bc196dd0d8fefb6f96fca43/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@7b31ac8](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@92a5aa4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 10, 2023.
 </em></small>
 
-|    **Versión** del producto 1.7b31ac8 de 10 Aug 2023
+|    **Versión** del producto 1.92a5aa4 de 10 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.7b31ac8 del 10 Aug 2023 |
+| Versión        | 1.92a5aa4 del 10 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    10 Aug 2023
 >
->    **Versión** 1.7b31ac8
+>    **Versión** 1.92a5aa4
 
 <br>
 
@@ -234,7 +234,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.7b31ac8** del 10 Aug 2023                       |
+| Versión        | **1.92a5aa4** del 10 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -253,7 +253,39 @@ El esfuerzo que toman los cambios en los servicios de transporte de información
 Esto último es lo que determina la problemática de la demora en el tiempo de mercado/salida a producción del FNA
 
 
-## Propuesta de Flexibilidad y Mejora del Tiempo de Mercado del FNA
+# Propuesta de Flexibilidad y Mejora del Tiempo de Mercado del FNA
+## Bloques Genéricos de Construcción de la Arquitectura de Referencia
+La propuesta de solución para mejorar los tiempos de mercado del FNA son aquellos referidos en los pasos no. 2 y 5 del flujo de trabajo de la Oficina de Arquitectura y son en realidad paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Estos bloques pueden implementar a cualquier clasificador (objeto material) de los modelos del repositorio de arquitectura empresarial.
+
+Ejemplo de estos bloques predefinidos en el repositorio de arquitectura pueden ser un proceso, un actor, un servicio, una aplicación, o una entidad de datos que haga parte del glosario de contenidos de la empresa Fondo Nacional. 
+
+Los bloques genéricos deben cumplir algunas reglas, como que siempre deben  representar una necesidad concisa de negocio o de arquitectura, que representen un único concepto con límites claros, y que sera reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques, en cuyo caso también habrá que definirlos. Es importante que un bloque de construcción tenga una implementación lógica en el repositorio, además de un uso, y que esté implementado y evolucione mediante la tecnología. 
+
+Los bloques de solución pueden estar compuesto por otros, en cuyo caso serán un ensamblado; pueden ser descompuestos (desensamblado) en los bloques pequeños que los constituyen. 
+
+Una regla necesaria a la hora de diseñar e implementar un bloque de construcción genérico, y obligatorio, que sea reutilizable, reemplazable, y especificado a conformidad.
+
+Los sistemas y herramientas de software de la arquitectura del FNA deben estar creados a partir de colecciones de bloques de solución. De ahí que estos bloques deban tener una interfaz de interacción clara y estable para con otros bloques. 
+
+Lo más importante de este concepto de bloques genérico es que sea incremental. Es decir, que sea creado mediante el de los niveles de detalle (100 al 500). Por ejemplo, a nivel 100, el arquitecto del FNA podría dar comienzo al modelado de un bloque de genérico mediante un nombre, una descripción o un esquema. Luego, el arquitecto de solución, puede descomponer este mismo bloque en múltiples construcciones acompañada de una especificación más detallada (nivel 200 al 500).
+
+En la siguiente imagen ilustramos una representación de un bloque genérico y los elementos con los que se implementan en el repositorio de arquitectura del FNA.. 
+
+![Relación de partes de un bloque de construcción genérico de la arquitectura de referencia del FNA.](images/bb.png){#fig:bb.png width=}
+
+_Fuente: TOGAF 9.1._
+
+<br>
+
+## Bloques Genéricos de Construcción. Definición
+Un bloque de construcción representa un componente (potencialmente reutilizable) de una única capacidad de la arquitectura de referencia del FNA, objeto de este proyecto. Puede ser ensamblado con otros bloques de construcción para agilizar la creación de arquitecturas y soluciones posteriores. 
+
+Los bloques de construcción genéricos deben tener asociado una contraparte usable llamada _bloque de solución_. Un bloque de solución representan los componentes que se utilizarán para implementar a un bloque genérico. Por ejemplo, 
+
+    "Una red es un bloque de construcción que puede describirse a través de artefactos complementarios y luego ponerse en uso para realizar soluciones para la empresa". Nota: basado en la definición de TOGAF 9.1.
+
+<br>
+
 
 
 # Definición de los Bloques de Construcción Abstractos del FNA (BCAF)
@@ -300,6 +332,10 @@ Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómpu
 
 <br>
 
+
+## Anexo 3. Flujo de Trabajo de la Oficina de Arquitectura
+
+
 ---
 prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitectura"
 ...
@@ -317,7 +353,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    10 Aug 2023
 >
->    **Versión** 1.7b31ac8
+>    **Versión** 1.92a5aa4
 
 <br>
 
