@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-10" />
   <meta name="citation_publication_date" content="2023-08-10" />
   <meta property="article:published_time" content="2023-08-10" />
-  <meta name="dc.modified" content="2023-08-10T20:40:10+00:00" />
-  <meta property="article:modified_time" content="2023-08-10T20:40:10+00:00" />
+  <meta name="dc.modified" content="2023-08-10T21:25:15+00:00" />
+  <meta property="article:modified_time" content="2023-08-10T21:25:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4856abdd928fcfd8e7295bc4db3ae1fc79fc2cbc/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4856abdd928fcfd8e7295bc4db3ae1fc79fc2cbc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4856abdd928fcfd8e7295bc4db3ae1fc79fc2cbc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4875f5686792be0c1dd586f352837c0d780ee347/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4875f5686792be0c1dd586f352837c0d780ee347/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4875f5686792be0c1dd586f352837c0d780ee347/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4856abdd928fcfd8e7295bc4db3ae1fc79fc2cbc/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/4875f5686792be0c1dd586f352837c0d780ee347/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@4856abd](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@4875f56](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 10, 2023.
 </em></small>
 
-|    **Versión** del producto 1.4856abd de 10 Aug 2023
+|    **Versión** del producto 1.4875f56 de 10 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.4856abd del 10 Aug 2023 |
+| Versión        | 1.4875f56 del 10 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -181,7 +181,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 > 
 >    10 Aug 2023
 >
->    **Versión** 1.4856abd
+>    **Versión** 1.4875f56
 
 <br>
 
@@ -225,7 +225,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
 | Autor          |                                             |
 | Fuente         |                                             |
-| Versión        | 1.4856abd del 10 Aug 2023            |
+| Versión        | 1.4875f56 del 10 Aug 2023            |
 | Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
 
 <br>
@@ -374,7 +374,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    10 Aug 2023
 >
->    **Versión** 1.4856abd
+>    **Versión** 1.4875f56
 
 <br>
 
@@ -412,6 +412,60 @@ _Fuente: Elaboración propia._
 
 
 ---
+prnombre: "Inventario de artefactos genéricos y concretos de aceleración de implementación"
+...
+
+<div style="page-break-before: always;"></div>
+\newpage
+
+| Tema           | Administración de las transiciones hacia la arquitectura versión 2.0: **Definición de los Bloques de Construcción Abstractos del FNA (BCAF)** |
+|----------------|----------------------------------------------------------------------|
+| Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.4875f56** del 10 Aug 2023                       |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+
+
+# La Problemática del Tiempo de Mercado (salidas a producción) en el FNA
+Con base a los diagnósticos de población del portafolio de servicios SOA del FNA (ver @eservices1-22), el cual trata de la clasificación de servicios, tenemos el hecho de que la _mayor cantidad de servicios del portafolio son del tipo servicios de información_ (ver anexo 1, Población de servicios del portafolio SOA del FNA). 
+
+Lo anterior responde a que la mayor cantidad de servicios SOA que son relevantes para el Fondo sirven para transportar información, esto es, para responder a solicitudes de información de los procesos o aplicaciones. Así mismo, este grupo influye en la cantidad de esfuerzo en mantenimiento y gobierno SOA. Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómputo (sea cálculo, diferencia, comparación...), y por tanto, inciden en la flexibilidad de negocio, son los de menor presencia en el portafolio FNA.
+
+<br>
+
+
+**Es importante** tener esta población presente porque puede estar influyendo en inclinar los esfuerzos hacia el mantenimiento de servicios de información, en lugar de a la velocidad de salida (tiempo de mercado) de las funcionalidades de negocio.
+
+<br>
+
+
+
+# Definición de los Bloques de Construcción Abstractos del FNA (BCAF)
+
+
+## Anexo 1. Población de servicios del portafolio FNA.
+La tabla siguiente muestra la población de servicios del portafolio FNA.
+
+|                      |              |
+|----------------------|--------------|
+| **Tipo Servicio**    | **Cantidad** |
+| Servicio Información | **55**       |
+| Servicio Proceso     | 18           |
+| Servicio Negocio     | 14           |
+| **Total general**    | **87**       |
+
+[Tabla.]() Catalogación de los tipos de servicios SOA del FNA.
+
+_Fuente: elaboración propia, FNA_PortafolioServiciosFinal+ConsumidoresyProveedores.xlsx_
+
+<br>
+
+
+---
 prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitectura"
 ...
 
@@ -428,7 +482,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    10 Aug 2023
 >
->    **Versión** 1.4856abd
+>    **Versión** 1.4875f56
 
 <br>
 
