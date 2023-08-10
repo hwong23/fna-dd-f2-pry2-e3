@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-10" />
   <meta name="citation_publication_date" content="2023-08-10" />
   <meta property="article:published_time" content="2023-08-10" />
-  <meta name="dc.modified" content="2023-08-10T21:28:07+00:00" />
-  <meta property="article:modified_time" content="2023-08-10T21:28:07+00:00" />
+  <meta name="dc.modified" content="2023-08-10T21:41:29+00:00" />
+  <meta property="article:modified_time" content="2023-08-10T21:41:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/32bded887c35ef2c9127f09dfb43b32c7b69c3ad/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/32bded887c35ef2c9127f09dfb43b32c7b69c3ad/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/32bded887c35ef2c9127f09dfb43b32c7b69c3ad/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/a43b75c82ad0695f3337c64b39ee5faee5cb00d0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/a43b75c82ad0695f3337c64b39ee5faee5cb00d0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/a43b75c82ad0695f3337c64b39ee5faee5cb00d0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/32bded887c35ef2c9127f09dfb43b32c7b69c3ad/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/a43b75c82ad0695f3337c64b39ee5faee5cb00d0/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@32bded8](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@a43b75c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 10, 2023.
 </em></small>
 
-|    **Versión** del producto 1.32bded8 de 10 Aug 2023
+|    **Versión** del producto 1.a43b75c de 10 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.32bded8 del 10 Aug 2023 |
+| Versión        | 1.a43b75c del 10 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -166,195 +166,6 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 ## Contenidos
 \toc
 
-
-
-<div style="page-break-before: always;"></div>
-\newpage
-
->    E-Service. Fase II
-> 
->    PRY02. Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales
-> 
->    Contrato 1812020
-> 
->    FNA, Stefanini
-> 
->    10 Aug 2023
->
->    **Versión** 1.32bded8
-
-<br>
-
-# Producto 10: PR10. Detalle de los ítems de la empresa FNA impactados por el proyecto
-Lista de las partes de la arquitectura actual del FNA relacionados con el diseño de la arquitectura de referencia SOA 2.0, objeto del proyecto.
-
-**Nota**: el resultado de este producto está dirigido a cumplir los objetivos del proyecto PRY02. Arquitectura de Referencia SOA 2.0 del FNA: desarrollo, sostenibilidad (gestión) de arquitectura de referencia.
-
-<br>
-
-## Justificación
-Adelantar la aprobación por parte del Fondo Nacional del Ahorro de los contenidos de los entregables del proyecto PRY02, en su  Etapa 0, de la Hoja de Ruta E-Service, tal que garantice su continuidad y ejecución.
-
-## Contenidos
-1. Vista de segmento de la empresa, campo de acción del proyecto PRY02
-1. Justificación del segmento de la empresa requerido por el trabajo de arquitectura SOA de referencia 2.0
-1. Iniciativas y brechas sensibles al trabajo de arquitectura de referencia 2.0 (relación con E-Service, Fase I)
-
-<br>
-
-## Criterios de Aceptación
-* Lista de los ítems de arquitectura y brechas críticas del trabajo atendidos por la arquitectura de referencia SOA 2.0 del FNA
-* Descripción de los ítems del segmento de la empresa del proyecto 2 (PRY02), Arquitectura de Referencia SOA 2.0 del FNA
-
-<br>
-
-## Modelo de Implementación del PRY02
-![Plan de Implementación del Proyecto Hoja de Ruta E-Service FNA, 2023. Abril 2023 a Agosto 2023](images/pry2.png){#fig: width=lin}
-
-_Fuente: Elaboración propia._
-
-<br>
-
-
-
-<div style="page-break-before: always;"></div>
-\newpage
-
-| Tema           | Vista de Contexto: **Elementos de la Arquitectura Impactados por el Proyecto** |
-|----------------|--------------------------------------------------------------------|
-| Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivos   |
-| Autor          |                                             |
-| Fuente         |                                             |
-| Versión        | 1.32bded8 del 10 Aug 2023            |
-| Vínculos       | [N001d. Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [N003a. Procesos de Negocio FNA](onenote:#N003a.%20Procesos%20de%20Negocio%20FNA&section)|
-
-<br>
-
-# Vista de Contexto Fase II, E-Service, 2023 (181-2020)
-## Elementos de la Arquitectura Impactados por el Proyecto
-La vista de contexto o del segmento de empresa presenta un corte de la arquitectura del Fondo Nacional del Ahorro (FNA, en adelante) que será abordada por este proyecto. Por tanto, esta vista es una porción de la empresa FNA (segmento de empresa) acotada a las partes que son sujeto del trabajo del proyecto , Arquitectura de Referencia SOA 2.0 del FNA, Fase II, E-Service (contrato 181-2020). Si bien, esta vista presenta únicamente las partes directamente relacionadas con este proyecto, también presenta la relación indirecta a otros ítems de la arquitectura del FNA a los que este alcanza.
-
-La vista de segmento a continuación presenta las partes de la arquitectura del FNA que son sujeto de este proyecto .
-
-![Elementos de la arquitectura del FNA, la empresa, involucrados e impactados por el proyecto actual. Muestra además la relación indirecta con otras partes de la empresa, externas a la vista de contexto.](images/segmentoFNAfaseII.jpg){#fig:1 width=lin}
-
-_Fuente: Elaboración propia._
-
-<br>
-
-Esta vista le informa al FNA tres objetivos importantes. Primero, que el ejercicio actual, Arquitectura de Referencia SOA 2.0 del FNA, aunque sea de carácter empresarial, está ubicado en TI, y está condicionada por las restricciones del proyecto presente. Por esta razón, no puede abarcar la completitud de la empresa FNA, sino únicamente las partes seleccionadas como relevantes. De ahí que la vista del segmento de la empresa informa de aquellas partes: la vista de segmento presentada en la imagen arriba hace foco en las dichas partes, capacidades del FNA, en esos procesos, y los artefactos de software, componentes y servicios SOA que son relevantes en las restricciones de ejecución (tiempo y recursos contratados) y resultados esperados de este proyecto (productos contractuales).
-
-Segundo, la vista de contexto comunica las problemáticas que el proyecto debe enfrentar, que sucede en las partes de la empresa que esta incluye, y las operaciones a realizar a aquellas partes de la empresa FNA. Las operaciones, que pueden ser diagnósticos, análisis, procedimientos, a realizar aparecen en forma de trabajo, al final de la vista. Por ejemplo, se deberán realizar para producir una solución dentro de los términos del proyecto, que en este caso, es el de Gobierno SOA.
-
-Tercero y último, la vista de segmento FNA del proyecto facilita la justificación y explicación de los criterios con los que se realizó la inclusión de las partes de la emprasa que esta incluye, así como de nuevos ítems que pueda incluir durante la ejecución del proyecto.
-
-<br>
-
-## Descripción de los Elementos de la Vista de Segmento
-La vista de segmento que define los ítems de arquitectura del FNA a ser abordados en esta etapa del proyecto; <mark>comprenden los siguientes</mark>
-elementos.
-
-1. Los procesos de Diseño de Servicios y Soluciones FNA y Verificación y Calidad de Implementación
-1. Los objetivos representados en el gobierno y adopción de la arquitectura
-1. Los servicios derivados del _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_
-1. La infraestructura tecnológica que soporta los servicios
-
-<br>
-
-### PROC4. Diseño de Servicios y Soluciones FNA
-El diseño de servicios y soluciones, constituye una competencia a desarrollar y madurar al interior del FNA, en concordancia con las recomendaciones de los marcos de referencia: _e-Competence Framework (e-CF)—A common European Framework for ICT Professionals in all industry sectors—Part 1: Framework, 2016_ en los cuales la etapa de diseño está alineada con los requisitos de los servicios demandados por los interesados, su posterior desarrollo, la adquisición o contratación y el gobierno que se hace necesario implementar para soportar la operación:
-
-* Gestión de la configuración
-* Preparación y ejecución de pruebas
-* Gestión de Requisitos y Mantenimiento
-* Atención de problemas
-* Atención de incidentes
-
-
-El Diseño de Servicios y Soluciones, garantiza una prestación ágil y escalable de servicios y soluciones digitales del FNA, además de oportunas y rentables, capaces de apoyar los objetivos trazados en la vista de segmento de esta etapa del proyecto.
-
-Estas soluciones digitales pueden adoptar varias formas, desde aplicaciones móviles, plataformas en línea, software personalizado, y sistemas de gestión empresarial, entre otros.
-
-Por otra parte y en articulación al Marco para la Transformación Digital del Estado Colombiano, del MinTIC, el diseño de servicios y soluciones, integra habilidades del FNA, orientadas principalmente a lo siguiente.
-
-* Diseño con enfoque centrado en los usuarios beneficiarios del FNA
-* Solución de problemas complejos a través de la arquitectura
-* Diseños ágiles desde la perspectiva de salida a producción y con un adecuado uso de recursos
-
-Estos elementos y características corresponderán a los atributos del proceso Diseño de Servicios y Soluciones FNA, de la vista de segmento del FNA.
-
-### PROC5. Verificación y Calidad de Implementación
-Este componente dentro de la vista de arquitectura de segmento, define el éxito del diseño de servicios y soluciones, debido a la consideración de buenas prácticas, cumplimiento de normas y un adecuado gobierno en la etapa de diseño, hasta llegar a la implementación y puesta en funcionamiento.
-
-La verificación y calidad de implementación dentro de la arquitectura de segmento, asegura que el diseño tuvo una planificación adecuada, un equipo de trabajo con las competencias necesarias, una comunicación asertiva, un modelo de desarrollo y ejecución de pruebas, un mecanismo gradual de
-implementación, las respectivas capacitaciones, los requerimientos de seguridad y privacidad y la generación de hábitos y comportamientos a través del uso y apropiación de la solución desplegada.
-
-Dentro del alcance de esta fase del proyecto, se contempla el diseño del Gobierno SOA, compuesto por elementos con líneas de actuación en completa articulación; los resultados de uno, impactan los resultados y el accionar de los demás.
-
-Estos elementos que se relacionan a continuación:
- 
-* Procesos
-* Estructura
-* Habilidades y Competencias
-* Políticas
-* Cultura y Ética
-* Infraestructura
-* Elementos de Información\ 
-
-<br>
-
-### OBJ10. Desarrollo de Arquitecturas FNA
-Dentro del dominio motivacional; una de las metas claves de la vista de segmento corresponde al desarrollo de arquitecturas, como elementos rectores de gobierno de los procesos: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
-
-De acuerdo con el Marco de Referencia de Arquitectura Empresarial (MRAE) del MinTIC es necesario generar una articulación entre: las iniciativas que se generan desde los dos procesos que son parte del alcance de esta fase; la ejecución de los proyectos que se generaron a partir de aquellas iniciativas; y una gestión y monitoreo de los impactos de la finalización de los proyectos y los productos que 
-entregan a nivel de servicios.
-
-A través de la práctica de arquitectura, el FNA empieza a generar un gobierno del diseño y posterior implementación de los servicios y soluciones digitales que presta a los ciudadanos.
-
-### OBJ11. Gestión de Arquitectura FNA
-Este componente está orientado a la instauración del Gobierno de Arquitectura; con los elementos que lo componen: procesos, estructura, habilidades y competencias, políticas, cultura y ética, y elementos de información.
-
-Es un objetivo por cumplir para los procesos definidos en esta fase: _Diseño de Servicios y Soluciones FNA_ y _Verificación y Calidad de Implementación_.
-
-<br>
-
-#Vistas de Apoyo al Segmento de la Empresa
-
-![E-Service](images/SegmentoSOAFNA.1.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-<br>
-
-![E-Service](images/SegmentoSOAFNA.2.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-<br>
-
-![E-Service](images/SegmentoSOAFNA.3.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-<br>
-
-![E-Service](images/VistaCapacidadesFNA.1.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-<br>
-
-![E-Service](images/VistaCapacidadesFNA.1a.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-<br>
-
-![E-Service](images/VistaCapacidadesFNA.1b.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-<br>
 
 
 ---
@@ -374,7 +185,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    10 Aug 2023
 >
->    **Versión** 1.32bded8
+>    **Versión** 1.a43b75c
 
 <br>
 
@@ -423,7 +234,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.32bded8** del 10 Aug 2023                       |
+| Versión        | **1.a43b75c** del 10 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -431,14 +242,15 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 
 
 # La Problemática del Tiempo de Mercado (salidas a producción) en el FNA
-Con base a los diagnósticos de población del portafolio de servicios SOA del FNA (ver @eservices1-22), el cual trata de la clasificación de servicios, tenemos el hecho de que la _mayor cantidad de servicios del portafolio son del tipo servicios de información_ (ver anexo 1, Población de servicios del portafolio SOA del FNA). 
+Con base a los diagnósticos de población del portafolio de servicios SOA del FNA (ver @eservices1-22), el cual trata de la clasificación de servicios, tenemos el hecho de que la _mayor cantidad de servicios del portafolio son del tipo servicios de información_ (ver [Anexo 2. Población de servicios del portafolio FNA]). 
 
-Lo anterior responde a que la mayor cantidad de servicios SOA que son relevantes para el Fondo sirven para transportar información, esto es, para responder a solicitudes de información de los procesos o aplicaciones. Así mismo, este grupo influye en la cantidad de esfuerzo en mantenimiento y gobierno SOA. Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómputo (sea cálculo, diferencia, comparación...), y por tanto, inciden en la flexibilidad de negocio, son los de menor presencia en el portafolio FNA.
+Lo anterior significa que la mayor cantidad de servicios SOA que son relevantes para el Fondo Nacional existen para únicamente para propósitos de transporte de información. Esto es, sirven para responder a solicitudes de información que los procesos o aplicaciones se hacen entre ellos. Esta característica de la población del portafolio de servicios se vuelva una situación desfavorable para los cambios de negocio que se ven afectados por el esfuerzo en mantenimiento y gobierno SOA que consumen aquellos otros servicios en detrimento de los servicios de negocio. 
 
-<br>
+    Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómputo (sea cálculo, diferencia, comparación...), y por tanto, los que inciden en la flexibilidad de negocio, son los de menor presencia en el portafolio FNA.
 
+El esfuerzo que toman los cambios en los servicios de transporte de información debe estar influyendo en inclinar los tiempos hacia el mantenimiento de servicios de información en lugar de a la velocidad de salida (tiempo de mercado) de las funcionalidades de negocio.
 
-**Es importante** tener esta población presente porque puede estar influyendo en inclinar los esfuerzos hacia el mantenimiento de servicios de información, en lugar de a la velocidad de salida (tiempo de mercado) de las funcionalidades de negocio.
+Esto último es lo que determina la problemática de la demora en el tiempo de mercado/salida a producción del FNA
 
 <br>
 
@@ -469,7 +281,7 @@ El flujo 2, que atiende la colaboración entre oficinas de arquitecturas, bien p
 <br>
 
 
-## Anexo 2. Población de servicios del portafolio FNA.
+## Anexo 2. Población de servicios del portafolio FNA
 La tabla siguiente muestra la población de servicios del portafolio FNA.
 
 |                      |              |
@@ -484,8 +296,9 @@ La tabla siguiente muestra la población de servicios del portafolio FNA.
 
 _Fuente: elaboración propia, FNA_PortafolioServiciosFinal+ConsumidoresyProveedores.xlsx_
 
-<br>
+Los servicios de negocio, aquellos que elaboran una respuesta mediante un cómputo (sea cálculo, diferencia, comparación...), y por tanto, los que inciden en la flexibilidad de negocio, son los de menor presencia en el portafolio FNA.
 
+<br>
 
 ---
 prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitectura"
@@ -504,7 +317,7 @@ prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitec
 >
 >    10 Aug 2023
 >
->    **Versión** 1.32bded8
+>    **Versión** 1.a43b75c
 
 <br>
 
