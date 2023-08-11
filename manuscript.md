@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-10'
+date-meta: '2023-08-11'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-10" />
-  <meta name="citation_publication_date" content="2023-08-10" />
-  <meta property="article:published_time" content="2023-08-10" />
-  <meta name="dc.modified" content="2023-08-10T23:17:29+00:00" />
-  <meta property="article:modified_time" content="2023-08-10T23:17:29+00:00" />
+  <meta name="dc.date" content="2023-08-11" />
+  <meta name="citation_publication_date" content="2023-08-11" />
+  <meta property="article:published_time" content="2023-08-11" />
+  <meta name="dc.modified" content="2023-08-11T17:06:25+00:00" />
+  <meta property="article:modified_time" content="2023-08-11T17:06:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/d7446eed17f49e4c0f052f0e7495471a7cdc98c6/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/d7446eed17f49e4c0f052f0e7495471a7cdc98c6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/d7446eed17f49e4c0f052f0e7495471a7cdc98c6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/e1dbb95300ecbdc2619802782fc969667115046b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/e1dbb95300ecbdc2619802782fc969667115046b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/e1dbb95300ecbdc2619802782fc969667115046b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/d7446eed17f49e4c0f052f0e7495471a7cdc98c6/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/e1dbb95300ecbdc2619802782fc969667115046b/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d7446ee](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 10, 2023.
+[Sharepoint STEF@e1dbb95](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 11, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d7446ee de 10 Aug 2023
+|    **Versión** del producto 1.e1dbb95 de 11 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.d7446ee del 10 Aug 2023 |
+| Versión        | 1.e1dbb95 del 11 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -183,9 +183,9 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    FNA, Stefanini
 >
->    10 Aug 2023
+>    11 Aug 2023
 >
->    **Versión** 1.d7446ee
+>    **Versión** 1.e1dbb95
 
 <br>
 
@@ -234,7 +234,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.d7446ee** del 10 Aug 2023                       |
+| Versión        | **1.e1dbb95** del 11 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -353,7 +353,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.d7446ee** del 10 Aug 2023                       |
+| Versión        | **1.e1dbb95** del 11 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -420,76 +420,6 @@ Presentamos a continuación la lista de bloques de construcción genéricos reco
 Nota: la lista de bloques genéricos aquí presentados requieren de implementación, pero esta no hace parte del alcance del proyecto actual.
 
 <br>
-
-
----
-prnombre: "Análisis de impacto y modelos actualizados de los ítems de arquitectura"
-...
-
-<div style="page-break-before: always;"></div>
-\newpage
-
->    E-Service. Fase II
->
->    PRY02. Arquitectura de Referencia SOA 2.0 del FNA. Contenido de los Productos Contractuales
->
->    Contrato 1812020
->
->    FNA, Stefanini
->
->    10 Aug 2023
->
->    **Versión** 1.d7446ee
-
-<br>
-
-# Producto 16: PR16. Análisis de impacto y modelos actualizados de los ítems de arquitectura
-Similar al ejercicio del producto 6, Modelos actualizados de los ítems de arquitectura impactados (PR06), del proyecto PRY01 de esta misma consultoría, en este producto hacemos lo propio respecto de los modelos de la arquitectura de referencia 2.0 del FNA. Por tanto, en este producto organizamos y consolidamos en el depósito de arquitectura del FNA (propuesto por esta misma consultoría) la información de los modelos de la arquitectura de referencia SOA 2.0 del FNA. A este lo complementa el análisis de impacto inicial que trate sobre las implicaciones de la adopción de los cambios funcionales y tecnológicos enunciados por esta arquitectura camino a ser el mapa de viaje de la transformación de las capacidades de negocio y de arquitectura del FNA (ver [Producto 11](<../../fna-dd-f2-pry2-e1/content/11.detalle roles recursos.md>) de este proyecto).
-
-Al repositorio línea base entregado por el proyecto 1 (anterior a este) agregamos nuevos modelos a razón de la  arquitectura de referencia y del ejercicio de este producto.
-
-| Tipo de Entrada      |          |
-|----------------------|---------:|
-| Arquitectura         | 12       |
-| Funcional            | 4        |
-| **Total Contenidos** | **1311** |
-
-**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
-
-<br>
-
-## Justificación
-Uno de los objetivos nominales, y objeto del proyecto actual, es la creación de la primera versión de la arquitectura de referencia SOA del FNA proyecto. Objetivo que se pliega al de _aumentar la relevancia de los modelos de arquitectura del Fondo Nacional_. En este proyecto 2 de Fase, II E-Service, los modelos son instrumentos de encuentro para el entendimiento, análisis, y comunicación entre actores, como ingenieros, arquitectos, proveedores, líderes de grupo. Se cumple también la máxima de proyectos anteriores de esta misma consultoría: los modelos, en este caso de la arquitectura de referencia, son por el sujeto principal, y la evidencia, de la existencia del gobierno. Por estas razones es que los modelos de referencia SOA 2.0 creados aquí tienen la importancia tal para ser entregados en contribución al repositorio de arquitectura de la empresa.
-
-## Contenidos
-1. Definición de los Bloques de Construcción Abstractos del FNA (BCAF)
-1. Métodos para la gestión y evolución de los Bloques de Construcción Abstractos del FNA (BCAF)
-1. Listado de Bloques de Construcción Abstractos del FNA (BCAF)
-1. Utilización de los Bloques de Construcción Abstractos en el FNA
-
-<br>
-
-## Criterios de Aceptación
-1. Detalle de ítems de la línea base de arquitectura de referencia 2.0 del FNA
-1. Repositorio de arquitectura del FNA, versión 0.5, actualizado con arquitectura de referencia
-1. Consideraciones para la adopción y puesta en marcha de los cambios en las arquitecturas del FNA
-1. Anexo. Herramienta de navegación del repositorio de arquitectura del FNA versión 0.3
-
-<br>
-
-## Repositorio de Arquitectura del FNA, versión 0.5
-![Artefactos del repositorio de arquitectura del FNA.](images/repofna.png){#fig: width=}
-
-_Fuente: Diagnóstico SOA. E-Service (2022)._
-
-
-## Modelo de Implementación del PRY02
-![Plan de Implementación del Proyecto Arquitectura de Referencia SOA 2.0 del FNA (PRY02), 2023. Junio 2023 a julio 2023](images/pry2e4.png){#fig: width=}
-
-_Fuente: Elaboración propia._
-
-<br>
-
 
 
 <div style="page-break-before: always;"></div>
