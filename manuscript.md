@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-08-18'
+date-meta: '2023-08-28'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno SOA del FNA. Incremento 1" />
-  <meta name="dc.date" content="2023-08-18" />
-  <meta name="citation_publication_date" content="2023-08-18" />
-  <meta property="article:published_time" content="2023-08-18" />
-  <meta name="dc.modified" content="2023-08-18T14:44:50+00:00" />
-  <meta property="article:modified_time" content="2023-08-18T14:44:50+00:00" />
+  <meta name="dc.date" content="2023-08-28" />
+  <meta name="citation_publication_date" content="2023-08-28" />
+  <meta property="article:published_time" content="2023-08-28" />
+  <meta name="dc.modified" content="2023-08-28T11:17:30+00:00" />
+  <meta property="article:modified_time" content="2023-08-28T11:17:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/548afc8952a05b26b7bc0a401981a948035080c9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/548afc8952a05b26b7bc0a401981a948035080c9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/548afc8952a05b26b7bc0a401981a948035080c9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/548afc8952a05b26b7bc0a401981a948035080c9/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@548afc8](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del August 18, 2023.
+[Sharepoint STEF@5a58a13](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del August 28, 2023.
 </em></small>
 
-|    **Versión** del producto 1.548afc8 de 18 Aug 2023
+|    **Versión** del producto 1.5a58a13 de 28 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.548afc8 del 18 Aug 2023 |
+| Versión        | 1.5a58a13 del 28 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -183,9 +183,9 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    FNA, Stefanini
 >
->    18 Aug 2023
+>    28 Aug 2023
 >
->    **Versión** 1.548afc8
+>    **Versión** 1.5a58a13
 
 <br>
 
@@ -234,7 +234,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.548afc8** del 18 Aug 2023                       |
+| Versión        | **1.5a58a13** del 28 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -305,11 +305,11 @@ Esto último es lo que determina la problemática de la demora en el tiempo de m
 
 # Propuesta de Flexibilidad y Mejora del Tiempo de Mercado del FNA
 ## Bloques Genéricos de Construcción de la Arquitectura de Referencia
-Desde la arquitectura de referencia SOA 2.0 del FNA hacemos la propuesta de  mejoramiento de los tiempos de mercado del FNA son aquellos referidos en los pasos no. 2 y 5 del flujo de trabajo de la Oficina de Arquitectura y son en realidad paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Estos bloques pueden implementar a cualquier clasificador (objeto material) de los modelos del repositorio de arquitectura empresarial.
+Desde la arquitectura de referencia SOA 2.0 del FNA hacemos la propuesta de mejoramiento de los tiempos de mercado del FNA: los bloques de construcción de la arquitectura de referencia (objeto de este proyecto). Este concepto fue ya referido en los pasos no. 2 y 5 del flujo de trabajo de la Oficina de Arquitectura y son en realidad paquetes de funcionalidad definidos por las necesidades de negocio o del arquitecto. Estos bloques pueden implementar a cualquier clasificador (objeto material) de los modelos del repositorio de arquitectura de referencia (o de la cualquier otra).
 
 Ejemplo de estos bloques predefinidos en el repositorio de arquitectura pueden ser un proceso, un actor, un servicio, una aplicación, o una entidad de datos que haga parte del glosario de contenidos de la empresa Fondo Nacional. 
 
-Los bloques genéricos deben cumplir algunas reglas, como que siempre deben  representar una necesidad concisa de negocio o de arquitectura, que representen un único concepto con límites claros, y que sera reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques, en cuyo caso también habrá que definirlos. Es importante que un bloque de construcción tenga una implementación lógica en el repositorio, además de un uso, y que esté implementado y evolucione mediante la tecnología. 
+Los bloques genéricos deben cumplir algunas reglas, como que siempre deben representar una necesidad concisa de negocio o de arquitectura, que representen un único concepto con límites claros, y que será reconocible como 'parte' en un dominio de la arquitectura. Puede o no interoperar con otros bloques, en cuyo caso también habrá que definirlos. Es importante que un bloque de construcción tenga una implementación lógica en el repositorio, además de un uso, y que esté implementado y evolucione mediante la tecnología. 
 
 Los bloques de solución pueden estar compuesto por otros, en cuyo caso serán un ensamblado; pueden ser descompuestos (desensamblado) en los bloques pequeños que los constituyen. 
 
@@ -352,7 +352,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.548afc8** del 18 Aug 2023                       |
+| Versión        | **1.5a58a13** del 28 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
