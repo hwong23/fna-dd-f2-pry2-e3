@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-28" />
   <meta name="citation_publication_date" content="2023-08-28" />
   <meta property="article:published_time" content="2023-08-28" />
-  <meta name="dc.modified" content="2023-08-28T11:17:30+00:00" />
-  <meta property="article:modified_time" content="2023-08-28T11:17:30+00:00" />
+  <meta name="dc.modified" content="2023-08-28T11:27:12+00:00" />
+  <meta property="article:modified_time" content="2023-08-28T11:27:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c7481a3a8394dc5ecfc7f2fb2b473c9d110d6cf5/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c7481a3a8394dc5ecfc7f2fb2b473c9d110d6cf5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c7481a3a8394dc5ecfc7f2fb2b473c9d110d6cf5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -78,13 +78,13 @@ tablenos-caption-name: Tabla
 ...
 
 
-<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/5a58a13cc3c2fabf5ab63b1d4b2063b0a7f6177c/))
+<small><em>Los productos de esta etapa ([Web](https://hwong23.github.io/fna-dd-f2-pry2-e3/v/c7481a3a8394dc5ecfc7f2fb2b473c9d110d6cf5/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@5a58a13](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@c7481a3](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del August 28, 2023.
 </em></small>
 
-|    **Versión** del producto 1.5a58a13 de 28 Aug 2023
+|    **Versión** del producto 1.c7481a3 de 28 Aug 2023
 
 
 
@@ -152,7 +152,7 @@ Entrega de los productos de la Etapa 2, PR11 y PR12, del proyecto PR02, Arquitec
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.5a58a13 del 28 Aug 2023 |
+| Versión        | 1.c7481a3 del 28 Aug 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -185,7 +185,7 @@ pr14nombre: "Administración de las transiciones hacia la arquitectura versión 
 >
 >    28 Aug 2023
 >
->    **Versión** 1.5a58a13
+>    **Versión** 1.c7481a3
 
 <br>
 
@@ -234,7 +234,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5a58a13** del 28 Aug 2023                       |
+| Versión        | **1.c7481a3** del 28 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -332,7 +332,7 @@ _Fuente: TOGAF 9.1._
 ## Bloques Genéricos de Construcción. Definición
 Un bloque de construcción es un componente ítem, potencialmente reutilizable, de una única capacidad de la arquitectura de referencia del FNA, objeto de este proyecto. Puede ser ensamblado con otros bloques de construcción para agilizar la creación de arquitecturas y soluciones posteriores. 
 
-Los bloques de construcción genéricos deben tener asociado una contraparte usable llamada _bloque de solución_. Un bloque de solución representan los componentes que se utilizarán para implementar a un bloque genérico. Por ejemplo, 
+Los bloques de construcción genéricos deben tener asociado una contraparte usable llamada _bloque de solución_. Un bloque de solución representa a los componentes que se utilizarán para implementar a un bloque genérico. Por ejemplo, 
 
     "Una red es un bloque de construcción que puede describirse a través de artefactos complementarios y luego ponerse en uso para realizar soluciones para la empresa". Nota: basado en la definición de TOGAF 9.1.
 
@@ -352,7 +352,7 @@ prnombre: "Inventario de artefactos genéricos y concretos de aceleración de im
 | Palabras clave | SOA, Arquitectura de referencia, Bloques de construcción, Genéricos, Reutilización, Tiempo de mercado                    |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.5a58a13** del 28 Aug 2023                       |
+| Versión        | **1.c7481a3** del 28 Aug 2023                       |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
